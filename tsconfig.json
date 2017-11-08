@@ -1,0 +1,14 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./",
+    "target": "es5",
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "sourceMap": false
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": []
+}

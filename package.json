@@ -1,0 +1,26 @@
+{
+  "name": "molten-web",
+  "version": "0.1.0",
+  "description": "Common typings and modules for MoltenDB web applications",
+  "main": "index.js",
+  "typings": "typings/molten-web.d.ts",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoltenDB/molten-web.git"
+  },
+  "keywords": [
+    "moltendb"
+  ],
+  "author": "Jack Farley <bytesnz>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MoltenDB/molten-web/issues"
+  },
+  "homepage": "https://github.com/MoltenDB/molten-web#readme",
+  "devDependencies": {
+    "@types/socket.io": "^1.4.31"
+  }
+}
